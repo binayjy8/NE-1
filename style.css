@@ -1,0 +1,23 @@
+#container {
+    height: 300px;
+    width: 500px;
+    background-color: gray;
+}
+
+.one {
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow;
+}
+
+.two {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(38, 58, 9);
+}
+
+.three {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(178, 163, 32);
+}
