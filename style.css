@@ -4,9 +4,10 @@
     background-color: gray;
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: no;
     text-align: center;
     font-size: 1.4rem;
+    flex-wrap: wrap;
 }
 
 .one {
