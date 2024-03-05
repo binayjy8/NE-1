@@ -7,8 +7,8 @@
     justify-content: no;
     text-align: center;
     font-size: 1.4rem;
-    flex-wrap: wrap;
-    align-content: flex-end;
+    flex-wrap: nowrap;
+    align-content: flex-start;
 }
 
 .one {
@@ -21,6 +21,7 @@
     height: 100px;
     width: 300px;
     background-color: rgb(38, 58, 9);
+    align-self: flex-end;
 }
 
 .three {
